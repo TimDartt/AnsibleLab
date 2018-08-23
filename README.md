@@ -28,7 +28,7 @@ You can read more at [www.docker.com](https://www.docker.com/)
 
 Clone this git repository:
 
-`https://github.com/kartikjena33/Ansible-Docker-Lab.git`
+`git clone https://github.com/kartikjena33/Ansible-Docker-Lab.git`
 
 ## Build images and run containers
 
